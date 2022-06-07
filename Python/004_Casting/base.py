@@ -1,0 +1,5 @@
+val = input("first number is: ")
+val = int(val)
+val2 = input("second number is: ")
+val2 = int(val2)
+print(val * val2)
